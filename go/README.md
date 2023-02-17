@@ -1,0 +1,7 @@
+ - containerd/containerd: [image names less permissive](https://github.com/containerd/containerd/issues/7986)
+ - gofireflyio/aiac: [limiting tokens per minute(https://github.com/gofireflyio/aiac/issues/21)]
+ - zricethezav/gitleaks: [~ does not convert to home(https://github.com/zricethezav/gitleaks/issues/935)]
+ - owncast/owncast: [Add additional chat role of "Streamer"(https://github.com/owncast/owncast/issues/1973)]
+ - owncast/owncast: [Owncast documentation web site does not have an opengraph image assigned(https://github.com/owncast/owncast/issues/2230)]
+ - owncast/owncast: [Set stream title in video tag for iframe embed of owncast streaming url(https://github.com/owncast/owncast/issues/2702)]
+ - sigstore/cosign: [Inappropriate printing to STDOUT(https://github.com/sigstore/cosign/issues/2510)]
